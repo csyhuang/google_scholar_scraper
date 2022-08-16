@@ -2,7 +2,7 @@
 
 Minimal requirement to run the scripts:
 - Get an account on serpapi.com
-- Install the serpapi python package
+- Install the `serpapi` python package
 - Put your Serp API key in the file `serp_api_key`
 
 Main script to run: `main.py`
